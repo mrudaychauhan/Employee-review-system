@@ -2,7 +2,7 @@
 
 This Employee review web application is created for employees to submit feedback toward each other's performance.
 
-### Hosted link: [Employee review system](https://employee-review-system-vb6l.onrender.com/)
+### Hosted link: [Employee review system](https://attractive-ray-crown.cyclic.app/)
 
 ## Functionality
 
